@@ -15,7 +15,7 @@
 
 1. **Clone the Repository**:  
    ```bash  
-   git clone https://github.com/Emmatiko101/graphguru.git  
+   git clone https://github.com/emma7iko/graphguru.git  
    ```  
 
 2. **Navigate to the Project Directory**:  
